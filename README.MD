@@ -1,0 +1,3 @@
+## Christian Domacena
+
+My presentation is an introduction about Natural Language Processing (NLP). NLP combines computational linguistics—rule-based modeling of human language—with statistical, machine learning, and deep learning models. Together, these technologies enable computers to process human language in the form of text or voice data and to ‘understand’ its full meaning, complete with the speaker or writer’s intent and sentiment.
